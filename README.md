@@ -1,4 +1,4 @@
-# js-blockchain
+# InnoCoin - blockchain
 
 This is an experimental little blockchain implementation. There are a lot of things missing but wanted to get started and learn how Blockchain works.
 
